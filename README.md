@@ -1,4 +1,4 @@
-# PROJECT 2: indeed.com web scrape and prediction of job salaries using classification models
+### PROJECT 2: indeed.com web scrape and prediction of job salaries using classification models
 
 This project consists of the 2 notebooks listed below:
 1. project-indeed-web-scrape-part1.ipynb
