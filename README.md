@@ -10,4 +10,4 @@ If unable to render these notebooks directly on GitHub, please open the links be
 1. https://nbviewer.jupyter.org/github/perkinsml/project-indeed.com-web-scrape/blob/master/part-1-indeed-web-scrape-and-EDA.ipynb
 2. https://nbviewer.jupyter.org/github/perkinsml/project-indeed.com-web-scrape/blob/master/part-2-model-training-and-evaluation.ipynb
 
-My blog on this project will soon be available at https://www.perkinsml.me/indeed-scraping.
+My blog on this project will be available soon at https://www.perkinsml.me/indeed-scraping.
